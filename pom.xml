@@ -25,6 +25,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <properties>
+<sonar.token>squ_6531c3bfbd90a82aee66437fef5a2b45fe7bd000</sonar.token>
+  </properties>  	  
   <build>
     <finalName>java-tomcat-maven-example</finalName>
     <plugins>
